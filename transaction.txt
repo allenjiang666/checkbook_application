@@ -1,0 +1,3 @@
+{'category': 'grocery', 'time': '2020-02-26 14:19:45', 'amount': '1000', 'description': 'First deposit'}
+{'category': 'business', 'time': '2020-02-26 14:20:20', 'amount': '-200', 'description': 'Feel good spend some money'}
+{'category': 'grocery', 'time': '2020-02-26 15:01:51', 'amount': '400', 'description': 'no description'}

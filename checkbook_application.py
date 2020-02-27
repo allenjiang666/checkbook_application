@@ -189,6 +189,8 @@ def search_transaction_by_keyword():
 
 # In[ ]:
 
+# Greetings 
+print("\n~~~ Welcome to your terminal checkbook! ~~~\n\n")
 
 # Main function
 while True:

@@ -4,3 +4,5 @@
 {'category': 'business', 'time': '2020-02-26 17:28:52', 'amount': '-400', 'description': 'afterwork activity'}
 {'category': 'transportation', 'time': '2020-02-26 17:29:26', 'amount': '400', 'description': 'happy money happ every day'}
 {'category': 'business', 'time': '2020-02-26 17:47:20', 'amount': '-200', 'description': 'no description'}
+{'category': 'transportation', 'time': '2020-02-26 20:42:09', 'amount': '-200', 'description': 'Happy trip'}
+{'category': 'entertaiment', 'time': '2020-02-26 20:42:57', 'amount': '500', 'description': 'no description'}

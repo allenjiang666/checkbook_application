@@ -5,7 +5,9 @@
 
 # In[ ]:
 
-
+# Initiation
+with open("transaction.txt", "a") as f:
+        f.write('')
 #assign categories to each transaction
     # add a menu item to allow the user to view all the transactions in a given category
     # provide the user with summary statistics about the transactions in each category

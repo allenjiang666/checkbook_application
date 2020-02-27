@@ -225,23 +225,10 @@ while True:
         print("Invalid input")
 
 
-# In[ ]:
 
 
-# erase all data
-with open("transaction.txt", "w") as f:
-    f.write('')
 
 
-# In[ ]:
-
-
-# show all data
-with open("transaction.txt") as f:
-    print(f.read())
-
-
-# In[ ]:
 
 
 
